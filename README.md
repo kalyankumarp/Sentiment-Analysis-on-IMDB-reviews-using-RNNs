@@ -1,3 +1,3 @@
-# Sentiment-Analysis-on-IMDB-reviews-using-RNNs
+## Sentiment-Analysis-on-IMDB-reviews-using-RNNs
 
-# Will upload the REPORT soon. Stay tuned.
+## Will upload the REPORT soon. Stay tuned.
